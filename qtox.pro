@@ -481,7 +481,8 @@ SOURCES += \
     src/core/toxid.cpp \
     src/persistence/profile.cpp \
     src/widget/translator.cpp \
-    src/persistence/settingsserializer.cpp
+    src/persistence/settingsserializer.cpp \
+    src/widget/circlewidget.cpp
 
 HEADERS += \
     src/audio/audio.h \
@@ -517,4 +518,5 @@ HEADERS += \
     src/core/toxid.h \
     src/persistence/profile.h \
     src/widget/translator.h \
-    src/persistence/settingsserializer.h
+    src/persistence/settingsserializer.h \
+    src/widget/circlewidget.hpp
