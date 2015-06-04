@@ -485,7 +485,8 @@ SOURCES += \
     src/widget/circlewidget.cpp \
     src/widget/circlewidget.cpp \
     src/widget/genericchatitemwidget.cpp \
-    src/widget/friendlistlayout.cpp
+    src/widget/friendlistlayout.cpp \
+    src/widget/genericchatitemlayout.cpp
 
 HEADERS += \
     src/audio/audio.h \
@@ -526,4 +527,4 @@ HEADERS += \
     src/widget/genericchatitemwidget.h \
     src/widget/circlewidget.h \
     src/widget/friendlistlayout.h \
-    src/widget/sortingboxlayout.h
+	src/widget/genericchatitemlayout.h
